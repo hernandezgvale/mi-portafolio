@@ -10,3 +10,5 @@ node_modules/
 #Archivos del sistema operativo
 .DS_Store
 thumbs.db
+config.local.json
+respaldos/index-copia-vieja.html
